@@ -16,13 +16,18 @@ Welcome to my GitHub profile! I'm a Computer Science Engineering student with a 
 
 ## 🚀 My Projects
 
-### [Project 1](https://github.com/yourusername/project1)
+### [Infinite Mobility]([https://github.com/sidkiamri/InfiniteMobilityApp-flutter])
 
-Short description and purpose of the project.
+The Infinite Mobility App is a feature-rich mobile application developed during my internship. Built with Flutter, this app employs Bluetooth Low Energy (BLE) communication to interact with electric bikes. It encompasses a wide range of functionalities, including user management, map navigation, BLE communication, and bike diagnostics.
 
-### [Project 2](https://github.com/yourusername/project2)
+### [SearchAndRecycle-Android]([https://github.com/sidkiamri/SearchAndRecycle-Android])
 
-Short description and purpose of the project.
+SearchAndRecycle is designed to promote recycling and reduce waste by providing users with a platform to participate in clean-up events, earn rewards, and locate recycling bins. The application aims to raise awareness about the importance of protecting the environment and encourages users to actively contribute to waste reduction efforts.
+
+### [SearchAndRecycle-ios]([https://github.com/sidkiamri/SearchAndRecycle-ios])
+
+SearchAndRecycle is designed to promote recycling and reduce waste by providing users with a platform to participate in clean-up events, earn rewards, and locate recycling bins. The application aims to raise awareness about the importance of protecting the environment and encourages users to actively contribute to waste reduction efforts.
+
 
 ## 🌱 I’m currently learning
 
