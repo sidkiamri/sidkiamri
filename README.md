@@ -1,6 +1,6 @@
 # Hello, I'm Sidki Amri 👋
 
-Welcome to my GitHub profile! I'm a Computer Science Engineering student with a passion for Mobile Applications development. Here, you'll find a collection of my projects, contributions, and a bit about me.
+Welcome to my GitHub profile! I'm a Computer Science Engineer with a passion for Mobile Applications development. Here, you'll find a collection of my projects, contributions, and a bit about me.
 
 ## About Me
 
