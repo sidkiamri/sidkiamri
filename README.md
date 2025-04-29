@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a Computer Science Engineer with a passion for
 
 ## About Me
 
-- 🌐 Computer Science Engineering student seeking to explore the field of technology, motivated to tackle new challenges.
+- 🌐 Computer Science Engineer seeking to explore the field of technology, motivated to tackle new challenges.
 - 📫 How to reach me: [sidkiamri001@gmail.com](mailto:sidkiamri001@gmail.com)
 
 ## 🔧 Technologies & Tools
