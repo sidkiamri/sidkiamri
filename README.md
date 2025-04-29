@@ -37,10 +37,6 @@ SearchAndRecycle is designed to promote recycling and reduce waste by providing 
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/sidki-amri/)
 
-## 📊 GitHub Stats
-
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sidkiamri&show_icons=true&hide_title=true&count_private=true&theme=radical)](https://github.com/sidkiamri)
-
 Feel free to explore my repositories and reach out if you have any questions or just want to chat. Happy coding! 🚀
 
 <!--
